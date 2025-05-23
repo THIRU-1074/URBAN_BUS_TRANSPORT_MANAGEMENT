@@ -1,0 +1,13 @@
+route_no,min_bus_required,lat_of_midpoint,long_of_midpoint
+405(Badarpur border)(Mori Gate Terminal),40,28.585255,77.263035
+405(Mori Gate Terminal)(Badarpur border),40,28.585255,77.263035
+405A(badarpur border)(kashmiri gate),40,28.585285,77.2638
+405A(kamla market)(badarpur border),40,28.574,77.262055
+419(Kamla Market)(Okhla Phase 1),40,28.604355,77.25761
+419(Lado Sarai(Firni Road))(Kamla Market),40,28.583525,77.209965
+419A(Okhla Phase 1)(Delhi Gate / Ambedkar Stadium	),40,28.602165,77.267465
+419A(Delhi Gate)(Lado Sarai(Firni Road)),40,28.581335,77.21982
+502(Mehrauli Terminal)(Kashmere Gate),40,28.59506,77.204875
+502(Kamla Market)(Mehrauli Terminal),40,28.58376,77.20313
+502A(Mehrauli Terminal)(Paharganj Dispensary),40,28.58415,77.1978
+502A(Delhi Gate)(Mehrauli Terminal),40,28.581585,77.212985
